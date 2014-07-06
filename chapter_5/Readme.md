@@ -7,11 +7,11 @@ cd cd cd cd cd cd cd cd cd cd
 
 Q. cd to the joe directory with one command.
 
-A. ' cd temp/stuff/things/frank/joe '
+A. cd temp/stuff/things/frank/joe
 
 Q. cd back to temp with one command, but not further above that.
 
-A. ' cd ../../../../../../ '
+A. cd ../../../../../../
 
 Q. Find out how to cd to your "home directory" with one command.
 
