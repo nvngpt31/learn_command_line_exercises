@@ -37,9 +37,11 @@ A. cd "This is fun"
 
 Q. Can you cd into the temp directory?
 
-A. cd tmp 
+A. cd /tmp 
 
 Q. Why don't we go into the temp directory?
+
+A. The temp directory contains hidden files and directories.
 
 Q. Can you go to the slash temp directory?
 
