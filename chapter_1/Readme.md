@@ -1,5 +1,4 @@
-### **Mac OSX Command Line List**
----------------------------
+    **Mac OSX Command Line List**
 
 **pwd**
 print working directory
@@ -72,5 +71,4 @@ change permission modifiers
 
 **chown**
 change ownership
-
 
