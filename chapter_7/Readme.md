@@ -19,7 +19,8 @@ Then I cd into the alto directory, used the ls command to list soprano, then rmd
 
 ###Q. Can you remove the tmp directory?
 
-A. No, you can't remove the temp directory. 
+A. Yes, 'rmdir temp'.
+
 ###Q. Let's clear out your log directory.
 
 A. cd ~/Library/Logs/ then rmdir for each log directory you want to clear.
