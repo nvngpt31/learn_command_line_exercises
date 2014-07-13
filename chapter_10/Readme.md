@@ -10,7 +10,7 @@ A. Did that: cp foo.txt /tmp
 
 ####Can you copy .bash_profile in your home directory to the current directory?
 
-A. Did that :p ~was3/.bash_profile ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_10/
+A. Did that :cp ~was3/.bash_profile temp
 
 ####Add a comment to the Readme.md that explains what Robocopy is...
 
