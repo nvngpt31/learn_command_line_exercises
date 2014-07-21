@@ -1,0 +1,3 @@
+View a file (less, MORE)
+
+This exercise is from Learn the Command Line chapter 12 by Zed Shaw.
