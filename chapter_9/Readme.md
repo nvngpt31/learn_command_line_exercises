@@ -1,3 +1,11 @@
+touch touch touch touch touch touch touch touch touch touch
+touch touch touch touch touch touch touch touch touch touch
+touch touch touch touch touch touch touch touch touch touch
+touch touch touch touch touch touch touch touch touch touch
+touch touch touch touch touch touch touch touch touch touch
+touch touch touch touch touch touch touch touch touch touch
+
+
 ###Q. Unix: Do More question
 A. I did get an error.
 I got the error because the directory contained a file in it. 
