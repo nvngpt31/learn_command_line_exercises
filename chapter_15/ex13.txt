@@ -1,0 +1,4 @@
+Chapter 15
+
+$<$
+The < will take and send the input from the file on the right to the program on the left. You see me do that in line 2. This does not work in PowerShell.

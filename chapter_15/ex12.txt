@@ -1,0 +1,5 @@
+Chapter 15
+
+
+$|$
+The | takes the output from the command on the left, and "pipes" it to the command on the right. In line 1 you see me do that.
